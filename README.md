@@ -7,7 +7,7 @@ Este espazo contén as Actas das reunións e acordos do equipo formado por
 - Sonia Álvarez Brasa (Desenvolvedora e documentación administrativa)
 - Luis Pena Varela (QA e documentación Game Tester)
 
-para a planificación e xestión de un minixogo en equipo coma proxecto do módulo de Deseño, xestión, publicación e produción (MP5052) do curso de Especialización de Desenvolvemento de videoxogos e realidade virtual (CSIFC51).
+para a planificación e xestión do minixogo "**_Bandúa_**" coma proxecto do módulo de Deseño, xestión, publicación e produción (MP5052) do curso de Especialización de Desenvolvemento de videoxogos e realidade virtual (CSIFC51).
 
 As tarefas técnicas do día a día no desenvolvemento do videoxogo manéxanse a través de [issues no repositorio de GitHub asociado a este documento](https://github.com/Gommegab/Dxpp-2/issues).  
 
