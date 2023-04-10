@@ -5,7 +5,6 @@ Este espazo contén as Actas das reunións e acordos do equipo formado por
 - Gabriel Gómez Mera (Xextor do proxecto)
 - Antía Roig Regueira (Desenvolvedora e documentación artística)
 - Sonia Álvarez Brasa (Desenvolvedora e documentación administrativa)
-- Luis Pena Varela (QA e documentación Game Tester)
 
 para a planificación e xestión do minixogo "**_Bandúa_**" coma proxecto do módulo de Deseño, xestión, publicación e produción (MP5052) do curso de Especialización de Desenvolvemento de videoxogos e realidade virtual (CSIFC51).
 

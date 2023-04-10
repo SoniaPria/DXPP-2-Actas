@@ -1,4 +1,4 @@
-AnGaLuSo segue unha estructura horizontal e transparente.  
+O equipo de Bandúa segue unha estructura horizontal e transparente.  
 
 A metodoloxía elexida para esto baséase no uso de repositorios de GitHub para a publicación de tarefas e indicencias do día a día do Equipo de xeito transparente e telemático. Desta maneira, todo membro do equipo pode coñecer os problemas da organización do proxecto, quen será o encargado de cada un e o progreso realizado en cada tarefa. Calqueira pode crear novas _issues_ nas que reportar problemas, ideas ou tarefas a realizar.   
 
