@@ -148,16 +148,14 @@ El proyecto asta dia de hoy hay un total de 67 horas trabajadas
 ### Desenvolvedora 1
 - Sonia Álvarez Brasa
     - tiempo total: 24 h
-        - Registro de horas: 
-            - [https://github.com/SoniaPria/DXPP-2-Actas/blob/main/EstimacionCustos/RexistroHorario_SoniaAlvarez.md](url)
+        - [Registro de horas](https://github.com/SoniaPria/DXPP-2-Actas/blob/main/EstimacionCustos/RexistroHorario_SoniaAlvarez.md)
 
 
 
 ### Desenvolvedora 2
 - Antía Roig Regueira
     - tiempo total: 29 h
-        - Registro de horas: 
-            - [https://github.com/SoniaPria/DXPP-2-Actas/blob/main/EstimacionCustos/RexistroHorario_AntiaRoig.md](url)
+        - [Registro de horas](https://github.com/SoniaPria/DXPP-2-Actas/blob/main/EstimacionCustos/RexistroHorario_AntiaRoig.md)
 
 
 
@@ -165,7 +163,6 @@ El proyecto asta dia de hoy hay un total de 67 horas trabajadas
 ### Xestor de proxecto & Tester/QA
 - Gabriel Gomez Mera
     - tiempo total: 15 h
-        - Registro de horas: 
-            - [https://github.com/SoniaPria/DXPP-2-Actas/blob/main/EstimacionCustos/RexistroHorario_GabrielGomez.md](url)
+        - [Registro de horas](https://github.com/SoniaPria/DXPP-2-Actas/blob/main/EstimacionCustos/RexistroHorario_GabrielGomez.md)
 
 
